@@ -57,15 +57,14 @@ Some of the projects available on this GitHub include:
 I am open to collaboration, internships, and entry-level data analyst opportunities.
 
 
-⭐ *This profile will be updated regularly as I continue learning and building projects.*
-
-
 - 🔭 I’m currently working on environmental and business data modelled projects
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning bulk data analysis
+- 👯 I’m looking to collaborate on research evaluation & data science
+
+- 🤔 I’m looking for help with data modelling
+- 💬 Ask me about The Environment
+- 📫 How to reach me: ....>
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: 
 -->
+⭐ *This profile will be updated regularly as I continue learning and building projects.*
